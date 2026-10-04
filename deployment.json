@@ -1,0 +1,10 @@
+{
+  "account": "liwaw008-svg",
+  "network": "StudioNet",
+  "contractAddress": "0xa19768D05bE8b4B7A4981699cF4c6e78Da22D343",
+  "deploymentTransaction": "0x44a07a36f68d56acba3654597040f52a2ca52a3245b36f01d7990c45236e4f01",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "ac6dbb2cf06ade797c208fa432582778395f9bb68eb605f853d31d8360b92f8b",
+  "repository": "https://github.com/liwaw008-svg/queue-garden"
+}

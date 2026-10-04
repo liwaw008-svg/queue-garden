@@ -1,0 +1,28 @@
+{
+  "gardenId": "GARDEN-1791125017",
+  "ticketId": "PRINT-1791125017",
+  "transactions": {
+    "open": "0xd217ffa80b8d531721706cf7ed8fca23e3cd601de1770e27c44f11cf38fb3677",
+    "plant": "0x040ed71dbc0c264020e07c574697f3edbf42ab3d9951c21a4bd891e2a08e1371",
+    "rank": "0xa6145e6a9e41ecdf432618afd45dbf8e98663b6ff19a7433dcbbeb03d4b9fb0f",
+    "serve": "0x8805ac0187375f1bfc7209425809bb1d26c9a664fe56e7ab44396c2222172efc"
+  },
+  "state": {
+    "applicant": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "blocker_indexes": [],
+    "garden_id": "GARDEN-1791125017",
+    "id": "PRINT-1791125017",
+    "priority": "BLOOM",
+    "request_digest": "63a2fe64ac23aad2205cbbd9a70b9c6e8222faeb2541596a242b422798987b23",
+    "request_url": "https://cdn.jsdelivr.net/gh/liwaw008-svg/queue-garden@56c606f69e7b10e8e26e2d85d77dcee9439b416b/evidence/print-request.md",
+    "revision": 0,
+    "satisfied_indexes": [
+      0,
+      1,
+      2
+    ],
+    "sequence": 0,
+    "state": "SERVED"
+  },
+  "walletDisclosure": "All demo wallets and source fixtures are operator-controlled."
+}

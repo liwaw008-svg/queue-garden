@@ -1,0 +1,18 @@
+.serve{
+  margin-top:22px;
+  border:1px solid var(--acid);
+  background:transparent;
+  color:var(--acid);
+  padding:12px;
+  font:700 9px 'Courier New',monospace;
+  letter-spacing:.1em;
+}
+.rank{
+  border:1px solid var(--leaf);
+  background:transparent;
+  color:var(--leaf);
+  padding:7px 10px;
+  font:700 8px 'Courier New',monospace;
+  letter-spacing:.1em;
+}
+button:disabled{cursor:not-allowed;opacity:.45}
