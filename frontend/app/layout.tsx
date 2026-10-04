@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'Queue Garden',description:'A public line that explains why every ticket stands where it does.'};export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
